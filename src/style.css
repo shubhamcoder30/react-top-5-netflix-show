@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1, p {
+  font-family: Lato;
+}
+.cards{
+  content: 100%;
+  float: left;
+ margin: 150px;
+}
+.card_image{
+height: 500px;
+
+}
+body{
+  background-color: gray;
+}
